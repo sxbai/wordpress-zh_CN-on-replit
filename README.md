@@ -6,7 +6,7 @@
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/install.sh)
 ```
-执行上面脚本之前先替换`replit.nix` (建议手动上传)
+- 执行上面脚本之前先替换`replit.nix` (建议手动上传)
 - 最后点击Run运行项目即可。
 
 ## 脚本来源
