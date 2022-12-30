@@ -67,7 +67,7 @@ REPL_URL=$REPL_SLUG.$REPL_OWNER.repl.co
 # Install Wordpress
 wp core install --url=$REPL_URL --title=$title --admin_user=$username --admin_password=$password --admin_email=$email
 
-echo ""
+echo "恭喜!!!"
 echo "您的新WordPress网站现已设置完成! "
 echo "网页地址: https://$REPL_URL"
 echo "管理员地址: https://$REPL_URL/wp-admin"
