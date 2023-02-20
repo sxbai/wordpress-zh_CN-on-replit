@@ -4,7 +4,7 @@
 - replit环境选择`PHP Web Server`
 - 核心文件 `replit.nix` 和 `install.sh`  
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/build.sh)
 ```
 - 执行上面脚本之前先替换`replit.nix` (建议手动上传)
 - 最后点击Run运行项目即可。
