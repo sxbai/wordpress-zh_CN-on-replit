@@ -6,10 +6,10 @@
 # 2. Update the replit.nix file to include the code in this repo
 # 3. Restart the Repl
 # 4. Run this command from the Replit shell:
-#    bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/install.sh)
+#    bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/build.sh)
 
 echo "准备在您的 Replit 中安装 Wordpress"
-echo "您是否确保在运行此脚本之前配置了 replit.nix 文件？"
+rm build.sh
 
 read -p "继续?输入Y安装输入N退出 <Y/n> " prompt
 if [[ $prompt == "N" || $prompt == "n" || $prompt == "No" || $prompt == "no" ]]; then
