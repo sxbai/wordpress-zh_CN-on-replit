@@ -7,7 +7,7 @@
 # 3. Restart the Repl
 # 4. Run this command from the Replit shell:
 #    bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/build.sh)
-
+nix-env -iA nixpkgs.less
 echo "准备在您的 Replit 中安装 Wordpress"
 
 read -p "继续?输入Y安装输入N退出 <Y/n> " prompt
