@@ -72,3 +72,4 @@ echo "网页地址: https://$REPL_URL"
 echo "管理员地址: https://$REPL_URL/wp-admin"
 echo "管理员账号: $username"
 echo "管理员密码: $password"
+rm -rf install.sh
