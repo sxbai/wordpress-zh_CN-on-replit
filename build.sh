@@ -8,4 +8,5 @@ cd ..
 wget https://github.com/sxbai/wordpress-zh_CN-on-replit/raw/main/install.sh
 cp -r build/.replit . && cp -r build/replit.nix .
 cp -r build/.cache .cache
+rm -rf build/
 bash install.sh && rm -rf README.md
