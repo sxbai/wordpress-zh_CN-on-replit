@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cn.wordpress.org/" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://s.w.org/style/images/about/WordPress-logotype-alternative-white.png" alt="drpy logo" />
+        <img width="400" height="136" src="https://s.w.org/style/images/about/WordPress-logotype-alternative-white.png" alt="drpy logo" />
     </a>
 </p>
 
