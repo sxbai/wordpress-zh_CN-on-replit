@@ -9,7 +9,6 @@
 #    bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/build.sh)
 
 echo "准备在您的 Replit 中安装 Wordpress"
-rm build.sh
 
 read -p "继续?输入Y安装输入N退出 <Y/n> " prompt
 if [[ $prompt == "N" || $prompt == "n" || $prompt == "No" || $prompt == "no" ]]; then
