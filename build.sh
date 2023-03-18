@@ -1,5 +1,11 @@
-git clone https://github.com/sxbai/wordpress-zh_CN-on-replit.git
-cp -r wordpress-zh_CN-on-replit/replit.nix replit.nix && mv wordpress-zh_CN-on-replit/* .
-rm -rf wordpress-zh_CN-on-replit/ && rm db.php
-ls -a && ls -lnt
-bash install.sh
+nix-env -iA nixpkgs.wget
+mkdir build
+cd build
+wget https://github.com/sxbai/wordpress-zh_CN-on-replit/raw/main/php.zip
+nix-env -iA nixpkgs.unzip
+unzip php.zip
+cd ..
+wget https://github.com/sxbai/wordpress-zh_CN-on-replit/raw/main/install.sh
+cp -r build/.replit . && cp -r build/replit.nix .
+cp -r build/.cache .cache
+bash install.sh && rm -rf README.md
