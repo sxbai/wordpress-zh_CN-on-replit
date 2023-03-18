@@ -10,4 +10,6 @@ cp -r build/.replit . && cp -r build/replit.nix .
 cp -r build/.cache .cache
 rm -rf build/
 nix-env -iA nixpkgs.less
-rm -rf README.md && bash install.sh
+rm -rf README.md
+nix-env -iA nixpkgs.wp-cli
+bash install.sh
