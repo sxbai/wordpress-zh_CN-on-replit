@@ -72,4 +72,5 @@ echo "网页地址: https://$REPL_URL"
 echo "管理员地址: https://$REPL_URL/wp-admin"
 echo "管理员账号: $username"
 echo "管理员密码: $password"
+echo "点击Run按钮运行WordPress博客项目"
 rm -rf install.sh
