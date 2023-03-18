@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cn.wordpress.org/" target="_blank" rel="noopener noreferrer">
-        <img width="400" height="136" src="https://raw.iqiq.io/sxbai/wordpress-zh_CN-on-replit/main/WordPress-logotype-alternative.png" alt="wordpress logo" />
+        <img width="400" height="216" src="https://raw.iqiq.io/sxbai/wordpress-zh_CN-on-replit/main/WordPress-logotype-alternative.png" alt="wordpress logo" />
     </a>
 </p>
 
