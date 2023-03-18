@@ -4,16 +4,16 @@
     </a>
 </p>
 
-<p align="center"><b>Drpy</b>部署于Replit，️一个Web服务器将Web和x5电影网站转换为CMS API数据。作者：道长&蓝莓</p>
+<p align="center"><b>WordPress</b>部署于Replit，️WordPress是一款能让您建立出色网站、博客或应用程序的开源软件。</p>
 
 <p align="center">
-<a href="https://github.com/sxbai/drpy-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/drpy-on-replit.svg?style=flat-square&include_prereleases" /></a>
-<a href="https://github.com/sxbai/drpy-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/drpy-on-replit.svg?style=flat-square" /></a>
+<a href="https://github.com/sxbai/wordpress-zh_CN-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/wordpress-zh_CN-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/sxbai/wordpress-zh_CN-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/wordpress-zh_CN-on-replit.svg?style=flat-square" /></a>
 
 <br />
 <a href="https://blog.sxbai.com">博客</a>
-<a href="https://github.com/liu673cn/drpy/blob/master/%E9%81%93%E9%95%BF%E4%B9%B1%E8%AF%B4.md">文档</a>
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=H2KwcXrMdiR5M2blHR5gjZzPfN_S3N_C&jump_from=webapi">QQ群</a>
+<a href="https://cn.wordpress.org/support/">文档</a>
+<a href="https://cn.wordpress.org/support/forums/">论坛</a>
 <a href="https://t.me/sxbai">Telegram 频道</a>
 </p>
 
