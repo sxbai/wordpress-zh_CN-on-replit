@@ -1,12 +1,30 @@
-# wordpress-zh_CN-on-replit  
+<p align="center">
+    <a href="https://cn.wordpress.org/" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="https://s.w.org/style/images/about/WordPress-logotype-alternative-white.png" alt="drpy logo" />
+    </a>
+</p>
 
+<p align="center"><b>Drpy</b>部署于Replit，️一个Web服务器将Web和x5电影网站转换为CMS API数据。作者：道长&蓝莓</p>
+
+<p align="center">
+<a href="https://github.com/sxbai/drpy-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/drpy-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/sxbai/drpy-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/drpy-on-replit.svg?style=flat-square" /></a>
+
+<br />
+<a href="https://blog.sxbai.com">博客</a>
+<a href="https://github.com/liu673cn/drpy/blob/master/%E9%81%93%E9%95%BF%E4%B9%B1%E8%AF%B4.md">文档</a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=H2KwcXrMdiR5M2blHR5gjZzPfN_S3N_C&jump_from=webapi">QQ群</a>
+<a href="https://t.me/sxbai">Telegram 频道</a>
+</p>
+
+------------------------------
 ## 使用说明
 - replit环境选择`PHP Web Server`
-- 核心文件 `replit.nix` 和 `install.sh`  
+
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/sxbai/wordpress-zh_CN-on-replit/main/build.sh)
 ```
-- 执行上面脚本之前先替换`replit.nix` (建议手动上传)
+- 执行上面脚本
 - 最后点击Run运行项目即可。
 
 ## 脚本来源
