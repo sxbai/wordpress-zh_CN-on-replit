@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>WordPress</b>部署于Replit，️WordPress是一款能让您建立出色网站、博客或应用程序的开源软件。</p>
+<p align="center"><b>WordPress中文版</b>部署于Replit，️WordPress是一款能让您建立出色网站、博客或应用程序的开源软件。</p>
 
 <p align="center">
 <a href="https://github.com/sxbai/wordpress-zh_CN-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/wordpress-zh_CN-on-replit.svg?style=flat-square&include_prereleases" /></a>
